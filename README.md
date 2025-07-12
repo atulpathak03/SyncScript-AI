@@ -15,11 +15,6 @@ A real-time collaborative code editor built using **React**, **Node.js**, **Sock
 
 ---
 
-## 📸 Demo
-
-> ![Code Colab UI](demo-screenshot.png)
-
----
 
 ## 🧑‍💻 Tech Stack
 
@@ -31,7 +26,7 @@ A real-time collaborative code editor built using **React**, **Node.js**, **Sock
 ---
 
 ## 🧩 Project Structure
-
+```bash
 code-colab/
 ├── client/
 │ ├── src/
@@ -42,7 +37,7 @@ code-colab/
 │ ├── index.js
 ├── README.md
 └── package.json
-
+```
 
 ---
 
