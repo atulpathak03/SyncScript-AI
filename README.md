@@ -46,8 +46,7 @@ code-colab/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/code-colab-ai.git
-cd code-colab-ai
+git clone https://github.com/atulpathak03/SyncScript-AI.git
 ```
 
 ### 2. Install dependencies
